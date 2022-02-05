@@ -1,0 +1,4 @@
+train: ../training/images
+val: ../valid/images
+nc: 12
+names: ['dont enter','keep right','max speed 40','max speed 60','no horn','no left turn','keep straight','no right turn','no u turn','parking','bicycle','toping and parking prohibited']
